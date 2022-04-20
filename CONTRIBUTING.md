@@ -1,31 +1,15 @@
 # Contributing
 
-Want to contribute something you learned today? Please do. Just follow these
-contributing guidelines.
+Thanks for wanting to contribute to my TIL repository!
 
-Fork and clone the repo:
+I welcome submissions that fix typos and correct wrong or misleading
+content. All you need to do is fork the repo, make a single commit with a
+concise, descriptive message, and then submit it as a pull request.
 
-```
-$ git clone git@github.com:your-username/til-collective.git
-```
+If you are interested in contributing your own TIL content, I encourage you
+to head on over to
+[til-collective](https://github.com/til-collective/til-collective) and make your
+submission there. As for this repo, I'd like to maintain it as my own
+personal learning journey.
 
-Add your TIL:
-
-- Write a brief (200 words or less) TIL in the directory appropriate to the
-  language or technology
-- Add an entry to `README.md` in the appropriate section in alphabetical
-  order.
-- Increment the TIL count at the top of `README.md`
-
-Submit your change:
-
-- Make a single commit on new branch
-- Push up your change (`git push origin my-til-branch`)
-- Submit a pull request
-
-We will review your submission as soon as we can. If everything looks good
-and no further changes are required, we will merge in the pull request.
-
-*Note: please include only one TIL per pull request*
-
-Thanks for considering contributing!
+If you have any questions or suggestions, feel free to open an issue.
