@@ -16,4 +16,4 @@ _1 TIL and counting..._
 
 ## ActiveDirectory
 
-- [Using Filter Instead of Identity](AdUser\Using-filter-instead-of-identity.md)
+- [Using Filter Instead of Identity](AdUser/Using-filter-instead-of-identity.md)
