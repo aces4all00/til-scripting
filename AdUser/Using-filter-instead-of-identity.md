@@ -1,3 +1,5 @@
+# Get-ADUser: Using -Filter vs -Identity parameters
+
 There are 2 basic methods for using PowerShell to get information about a specific Active Directory user account (some user with SamAccountName 'someUser' in my examples):
 
 ```PowerShell
