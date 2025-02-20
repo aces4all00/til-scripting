@@ -6,7 +6,7 @@ A collection of concise write-ups on small things we learn day to about Scriptin
 
 Did you learn something today? Please [contribute](CONTRIBUTING.md)!
 
-_2 TIL and counting..._
+_3 TIL and counting..._
 
 ## Categories
 
@@ -27,11 +27,14 @@ _2 TIL and counting..._
 ## Basics
 
 - [Explicitly declaring variables in PowerShell][url-2]
+- [Is it a 'string' or "expression"?][url-3]
 
 ## Powershell
 
 - [Explicitly declaring variables in PowerShell][url-2]
 - [Get-ADUser: Using Filter Instead of Identity][url-1]
+- [Is it a 'string' or "expression"?][url-3]
 
 [url-1]: AdUser\Using-filter-instead-of-identity.md
 [url-2]: PowerShell-basics\declaring-variables.md
+[url-3]: PowerShell-basics\string-or-expression.md
